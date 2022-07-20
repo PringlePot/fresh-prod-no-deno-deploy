@@ -2,7 +2,7 @@
 
 ### How to use in prod?
 
-Set the DENO_DEPLOYMENT_ID to a random string
+Set the `DENO_DEPLOYMENT_ID` to a random string
 
 ```sh
 # This sets it to a random string
